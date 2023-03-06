@@ -1,3 +1,7 @@
-### Hi there 👋
-I am 22 years old, I am studying at the National University of Entre Rios, in the Bachelor's degree in Systems and at the same time I am a Full-stack web developer jr, where I generally stand out for the front-end, although I also have good management from the back-end. I like to keep up to date with new technologies and take courses to reinforce my knowledge.
+### Hi Friends 👋
+I am 24 years old, I work as a Java/kotlin Jr backend developer at IbisDev, I am advanced in my degree in systems, I am passionate about technology, I love my job and I want to continue growing in the fantastic IT world both as a dev and as a person.
 
+
+Goals for this year:
+* Learn golang
+* Create projects with golang
